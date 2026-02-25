@@ -122,7 +122,7 @@ function App() {
           <Route path="/new" element={<New />} />
           <Route path="/edit/:id" element={<Edit />} />
           <Route path="/diary/:id" element={<Diary />} />
-          <Route path="*" element={<Notfound />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </DiaryDispatchContext.Provider>
     </DiaryStateContext.Provider>
