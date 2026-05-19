@@ -12,6 +12,7 @@ React로 구현한 감정 상태 기록 및 관리(CRUD) 서비스입니다.
 - LocalStorage 동기화 및 잘못된 경로 접근 시 리다이렉트 예외 처리
 
 ## 📁 폴더 구조
+```
 src/
 ├── components/   # UI 컴포넌트 (Button, Editor, List, Item 등)
 ├── pages/        # 라우터 페이지 (Home, New, Edit, Diary 등)
