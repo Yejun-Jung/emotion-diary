@@ -18,6 +18,7 @@ src/
 ├── pages/        # 라우터 페이지 (Home, New, Edit, Diary 등)
 ├── hooks/        # 커스텀 훅 (useDiary, useTitle)
 └── util/         # 유틸리티 함수 및 상수 관리
+```
 
 
 ## 🛠 사용 기술
